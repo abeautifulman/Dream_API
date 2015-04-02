@@ -47,3 +47,5 @@ gem 'rabl'
 gem 'oj'
 gem 'httparty'
 gem 'kaminari'
+
+gem 'responders', '~> 2.0'
