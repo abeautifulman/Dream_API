@@ -43,3 +43,7 @@ group :development, :test do
   gem 'spring'
 end
 
+gem 'rabl'
+gem 'oj'
+gem 'httparty'
+gem 'kaminari'
