@@ -9,7 +9,7 @@ Rails.application.routes.draw do
   end
 
   # namespace path_helper hackery!
-  get '/v1/dreams/:id', to: 'dreams#show', as: :dream
-  get '/v1/users/:id', to: 'users#show', as: :user
+#  get '/v1/dreams/:id', to: 'dreams#show', as: :dream
+#  get '/v1/users/:id', to: 'users#show', as: :user
 
 end
